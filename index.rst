@@ -11,6 +11,7 @@ Welcome to Git Classes - Apssdc's documentation!
    :numbered:
    
    new.md
+   Document.md
 
 
 
